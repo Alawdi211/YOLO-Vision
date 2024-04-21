@@ -1,0 +1,5 @@
+train: C:/Users/salaw/fiftyone/coco-2017/train/images
+val: C:/Users/salaw/fiftyone/coco-2017/validation/images
+
+nc: 6  # number of classes
+names: ['person', 'car', 'stop sign', 'truck', 'traffic light', 'motorcycle']  # class names
